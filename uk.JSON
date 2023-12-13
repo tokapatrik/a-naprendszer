@@ -1,0 +1,87 @@
+{
+  "welcome": "<div class=\"text-center\"><h4>Ismerd meg a Naprendszer bolygóit!</h4><p class=\"mb-5\">Járd be a galaxisunkat és fedezd fel a Naprendszer összes bolygóját</p><h4>Discover the planets of the Solar System!</h4><p class=\"mb-5\">Explore our galaxy and discover all the planets of the Solar System</p><p class=\"mt-5 mb-0\">Válassza ki az oldal nyelvét:</p><p class=\"mb-1\">Select the language of the page:</p><div><img id=\"hu\" class=\"p-1 me-1 languageImg\" src=\"images/hu.png\" alt=\"HU\"><img id=\"uk\" class=\"p-1 ms-1 languageImg\" src=\"images/uk.png\" alt=\"UK\"></div></div>",
+  "movement": "<div class=\"text-center pb-1\" ><h4 class=\"mb-5\">Control</h4><p class=\"mb-5\">When the spaceship gets close to a planet, you can interact with it by clicking on the planet&#39s name.</p><p class=\"mb-5\">By holding down the left mouse button and moving the mouse, you can control the movement of the camera on your map. You can move freely around the Solar System from a mobile device.</p><p class=\"mb-5\">On a computer, pressing the C key the camera returns to the spaceship.</p><h4>Contact </h4><p>tokapatrik321@gmail.com</p><p id=\"copyright\" style=\"cursor:pointer;\">Copyright</p></div>",
+  "closeButton": "<button id=\"closeTextContainer\" class=\"position-absolute top-0 end-0 m-1 btnClose\"><i class=\"fa-solid fa-xmark\"></i></button>",
+  "copyright": "<div class=\"text-center\"><p class=\"mt-5\">Planets and spaceships: <p href=\"https://www.vecteezy.com/\" target=\"_blank\" style=\"cursor:pointer; color: rgb(228, 228, 228);\">www.vecteezy.com</a></p><p class=\"mb-5\"></p>Copyright 2022 Tóka Patrik. All rights reserved.</p></div>",
+  "sun": {
+    "name": "Sun",
+    "data": {
+      "data1": "Diameter: 1 392 700 km",
+      "data2": "Surface temperature: 5505°C",
+      "data3": "Weight: 1.989 • 10<sup>30</sup> kg"
+    },
+    "description": "<p>The Sun is the central star of the Solar System. Orbiting it are the Earth and the other planets in the Solar System, as well as dwarf planets, minor planets, comets and other celestial bodies. It is about 150 million kilometres from Earth, which is 8.3 minutes at the speed of light.</p ><p>The Sun contains 99.8% of the material in the Solar System, with a diameter of 109 Earth diameters. It is 73.5% hydrogen, which is converted into helium by nuclear fusion at its centre. The energy released and radiated into space is essential for most life on Earth.</p ><p>The Sun is a G2V-type star, halfway through its main sequence evolution, which will last for about 10 billion years. After 5 billion years, when it has exhausted its hydrogen fuel, it swells into a red giant, forming a planetary nebula from its outer layers and collapsing into a white dwarf core.</p>"
+  },
+  "mercur": {
+    "name": "Mercury",
+    "data": {
+      "data1": "Diameter: 4 879 km",
+      "data2": "Surface temperature: -173°C - 426°C",
+      "data3": "Weight: 3.285 • 10<sup>23</sup> kg"
+    },
+    "description": "<p>Mercury is the innermost and smallest planet in the Solar System, with an orbital period of 88 days.</p><p>Mercury looks bright from Earth, with a magnitude ranging from -2.0 to 5.5, but it is difficult to see because its maximum angular distance from the Sun is only 28.3°. It can be observed in the morning or evening at twilight.</p><p>The first of the two spacecraft to visit Mercury was Mariner-10, which mapped only 45% of the planet's surface in 1974-75. The second was MESSENGER, which revealed a further 30% of the planet's surface when it flew by on 14 January 2008.</p>"
+  },
+  "venus": {
+    "name": "Venus",
+    "data": {
+      "data1": "Diameter: 12 104 km",
+      "data2": "Surface temperature:  -220°C - 420°C",
+      "data3": "Weight: 4.867 • 10<sup>24</sup> kg"
+    },
+    "description": "<p>Venus is the second planet from the Sun, with an orbital period of 224.7 Earth days. It is named after Venus, the Roman goddess of beauty.</p><p>After the Moon, it is the brightest object in the night sky, with a maximum apparent brightness of -4.6 magnitude. At its maximum brightness, it can be seen even in daylight.</p><p>Because Venus orbits the Sun and is closer to it than the Earth, it can be seen east of the Sun for a few months, then west of the Sun for a few months, at varying distances.</p>"
+  },
+  "earth": {
+    "name": "Earth",
+    "data": {
+      "data1": "Diameter: 12 742 km",
+      "data2": "Surface temperature: -40°C - 50°C",
+      "data3": "Weight: 5,972 • 10<sup>24</sup> kg"
+    },
+    "description": "<p>In addition to HTML and CSS, JavaScript is the basis of web development, because it allows you to create dynamic and interactive websites.</p><p>JavaScript is my main programming language.</p><p>TypeScript, which is an evolution of JavaScript, has also become a dominant language in web development.</p><p>While TypeScript is a more modern technology, its knowledge is important to me alongside JavaScript.</p>"
+  },
+  "mars": {
+    "name": "Mars",
+    "data": {
+      "data1": "Diameter: 6 779 km",
+      "data2": "Surface temperature: -140°C - 20°C",
+      "data3": "Weight: 6,39 • 10<sup>24</sup> kg"
+    },
+    "description": "<p>Earth is the third planet in the Solar System from the Sun, where it is the Earth-type planet with the largest diameter, mass and density.</p><p>It is home to millions of species, including humans. Earth is the only planet in the universe known to harbour life.</p><p>It is currently known to have formed between 4.44 and 4.54 billion years ago, and life appeared on its surface after about a billion years.</p>"
+  },
+  "jupiter": {
+    "name": "Jupiter",
+    "data": {
+      "data1": "Diameter: 139 820 km",
+      "data2": "Surface temperature:  -183°C - 426°C",
+      "data3": "Weight: 1,898 • 10<sup>27</sup> kg"
+    },
+    "description": "<p>Jupiter is the fifth planet from the Sun and by far the largest planet in the Solar System. It is a giant planet with a mass two and a half times greater than the combined mass of all the other planets.</p><p>From Earth, it has a maximum brightness of -2.94 magnitude, making it on average the third brightest celestial body in the night sky, after the Moon and Venus (for short periods, Mars can rival its brightness at certain points in its orbit).</p><p>Jupiter is composed mainly of hydrogen, with helium making up a quarter of its mass, and its rocky core may contain heavier elements.</p>"
+  },
+  "saturn": {
+    "name": "Saturn",
+    "data": {
+      "data1": "Diameter: 116 460 km",
+      "data2": "Surface temperature: -191°C - -69°C",
+      "data3": "Weight: 5,6846 • 10<sup>26</sup> kg"
+    },
+    "description": "<p>Saturn is the sixth planet from the Sun, the second largest in the Solar System after Jupiter.</p><p>It is one of only five planets visible to the naked eye from Earth. Saturn has a spectacular ring system of ice and debris.</p><p>Saturn's inner core is probably composed of iron-nickel, with metallic hydrogen surrounding the core, followed by an intermediate layer of liquid hydrogen and liquid helium, and finally a planetary outer blanket of gases.</p><p>Electric currents flow in the metallic hydrogen layer, generating a magnetic field around the planet that is weaker than Earth's, but with a magnetic moment 580 times stronger, due to Saturn's larger size.</p>"
+  },
+  "uranus": {
+    "name": "Uranus",
+    "data": {
+      "data1": "Diameter: 51 118 km",
+      "data2": "Surface temperature: -214°C - -196°C",
+      "data3": "Weight: 8,6832 • 10<sup>25</sup> kg"
+    },
+    "description": "<p>Uranus is the seventh planet in the Solar System. It is a giant planet, with the third largest diameter and the fourth largest mass.</p><p>The discovery of Uranus dates back to 13 March 1781, when it was first sighted by Sir William Herschel.</p><p>It didn't take long for astronomers to realise the significance of this discovery. Sir William had originally named the planet after his patron, the English monarch George III, but the name Georgium Sidus (George's Star) was not enthusiastically received by the rest of the world.</p><p>Six years later, Herschel discovered the two largest moons of Uranus, Titania (III) and Oberon (IV). Ariel (I) and Umbriel (II) were discovered by Lassell in 1851.</p>"
+  },
+  "neptune": {
+    "name": "Neptune",
+    "data": {
+      "data1": "Diameter: 49 528 km",
+      "data2": "Surface temperature:  -223°C - -217°C",
+      "data3": "Weight: 1,0243 • 10<sup>26</sup> kg"
+    },
+    "description": "<p>Neptune is the eighth-most distant planet in the Solar System from the Sun.</p><p>It is the last of the four giant planets in our system in size, and the third largest in mass, ahead of Uranus. Because of its colour, it is named after Neptune, the Roman god of the seas. It has 14 known moons, the two best known being Nereida and Triton.</p><p>The first person to make a clear reference to the existence of a planet beyond Uranus was an amateur astronomer, the Reverend Hussey, rector of Kent.</p>"
+  }
+}

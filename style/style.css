@@ -1,0 +1,105 @@
+* {
+    font-family: 'Chivo Mono', monospace;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+.fadeIn{animation: fadeIn 0.3s;}
+
+.pageContainer{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.space-card{
+    background-color: rgba(28, 39, 48,0.9);
+    border: solid 2px #356c72;
+    backdrop-filter: blur(5px);
+    color: rgb(228, 228, 228);
+    width: 50vw;
+    padding:  3rem;
+    position: relative;
+    overflow-y: auto;
+}
+.btnClose{
+    color: rgb(228, 228, 228);
+    border-radius: 0px;
+    border: none;
+    background-color: transparent;
+    width: 50px;
+    height: 50px;
+}
+.btnClose:hover{
+    background-color: rgba(21, 30, 37, 0.9);
+}
+
+.languageImg{
+    width: 100px;
+}
+.languageImg:hover{
+    outline: solid 2px #356c72;
+}
+.info{
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    background-color: rgba(21, 30, 37, 0.9);
+    color: rgb(228, 228, 228);
+    border: solid 2px #356c72;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+}
+.info:hover{
+    transform: scale(1.1);
+}
+.size{
+    font-size: 2em;
+    line-height: 0.03125em;
+}
+
+.planetOpen{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(21, 30, 37, 0.9);
+    color: rgb(228, 228, 228);
+    border: solid 2px #356c72;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+    h4{
+        margin-bottom: 10vh;
+    }
+    .space-card {
+        width: 80vw;
+        max-height: 80vh;
+        font-size: 1.8vh;
+        padding:  3rem 1rem 3rem 1rem;
+    }
+    .languageImg{
+        width: 20vw;
+    }
+    .size{
+        font-size: 1em;
+    }
+}

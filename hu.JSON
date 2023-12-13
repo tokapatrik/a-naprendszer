@@ -1,0 +1,87 @@
+{
+  "welcome": "<div class=\"text-center\"><h4>Ismerd meg a Naprendszer bolygóit!</h4><p class=\"mb-5\">Járd be a galaxisunkat és fedezd fel a Naprendszer összes bolygóját</p><h4>Discover the planets of the Solar System!</h4><p class=\"mb-5\">Explore our galaxy and discover all the planets of the Solar System</p><p class=\"mt-5 mb-0\">Válassza ki az oldal nyelvét:</p><p class=\"mb-1\">Select the language of the page:</p><div><img id=\"hu\" class=\"p-1 me-1 languageImg\" src=\"images/hu.png\" alt=\"HU\"><img id=\"uk\" class=\"p-1 ms-1 languageImg\" src=\"images/uk.png\" alt=\"UK\"></div></div>",
+  "movement": "<div class=\"text-center pb-1\"><h4 class=\"mb-5\">Irányítás</h4><p class=\"mb-5\">Ha az űrhajó közel kerül egy bolygóhoz interakcióba léphetünk vele, ehhez kattintsunk a bolygó nevére.</p><p class=\"mb-5\">A bal egérgomb nyomva tartásával és az egér mozgatásával irányíthatjuk a kamera mozgását a térképén. Mobil eszközről szabadon mozoghatunk a Naprendszerben.</p><p class=\"mb-5\">Számítógép esetén a C gomb megnyomására a kamera visszaáll az űrhajóra.</p><h4>Kapcsolat</h4><p>tokapatrik321@gmail.com</p><p id=\"copyright\" style=\"cursor:pointer;\">Copyright</p></div>",
+  "closeButton": "<button id=\"closeTextContainer\" class=\"position-absolute top-0 end-0 m-1 btnClose\"><i class=\"fa-solid fa-xmark\"></i></button>",
+  "copyright": "<div class=\"text-center \"><p class=\"mt-5\"></p>Bolygók és űrhajó: <a href=\"https://www.vecteezy.com/\" target=\"_blank\" style=\"cursor:pointer; color: rgb(228, 228, 228);\">www.vecteezy.com</a></p><p class=\"mb-5\"></p>Copyright 2022 Tóka Patrik. Minden jog fenntartva.</p></div>",
+  "sun": {
+    "name": "Nap",
+    "data": {
+      "data1": "Átmérő: 1 392 700 km",
+      "data2": "Felszíni hőmérséklet: 5505°C",
+      "data3": "Tömeg: 1.989 • 10<sup>30</sup> kg"
+    },
+    "description": "<p >A Nap a Naprendszer központi csillaga. Körülötte kering a Föld, valamint a Naprendszerhez tartozó többi bolygó, valamint törpebolygók, kisbolygók, üstökösök és más égitestek. A Földtől körülbelül 150 millió  kilométer távolságra van, ami fénysebességgel haladva 8,3 perc.</p><p >A Nap tartalmazza a Naprendszer anyagának 99,8%-át, átmérője 109 földátmérő. 73,5%-ban hidrogénből áll, amely a központjában zajló magfúzió során héliummá alakul. Az ennek során felszabaduló, majd a világűrbe szétsugárzott energia nélkülözhetetlen a legtöbb földi élőlény számára.</p ><p >A Nap egy G2V színképtípusú csillag, a mintegy 10 milliárd évig tartó fősorozatbeli fejlődésének a felénél jár. A fűtőanyagát jelentő hidrogén elhasználása után, 5 milliárd év múlva vörös óriássá duzzad, majd a külső rétegeiből planetáris köd képződik, magja pedig magába roskadva fehér törpévé alakul.</p>"
+  },
+  "mercur": {
+    "name": "Merkúr",
+    "data": {
+      "data1": "Átmérő: 4 879 km",
+      "data2": "Felszíni hőmérséklet: -173°C - 426°C",
+      "data3": "Tömeg: 3.285 • 10<sup>23</sup> kg"
+    },
+    "description": "<p >A Merkúr a Naprendszer legbelső és legkisebb bolygója, a Nap körüli keringési ideje 88 nap.</p><p >A Merkúr a Földről nézve fényesnek látszik, magnitúdója −2,0 és 5,5 között változik, azonban nehéz észlelni, mert a Földről nézve a Naptól mérhető legnagyobb szögtávolsága csak 28,3°. Reggel vagy este szürkületkor lehet megfigyelni.</p><p >A Merkúrt meglátogató két űreszköz közül az első a Mariner–10 volt, mely 1974–75-ben a bolygó felszínének csupán 45%-át térképezte fel. A második a MESSENGER, amely további 30%-ot mutatott meg a bolygó felszínéből, amikor 2008. január 14-én elrepült mellette.</p>"
+  },
+  "venus": {
+    "name": "Vénusz",
+    "data": {
+      "data1": "Átmérő: 12 104 km",
+      "data2": "Felszíni hőmérséklet:  -220°C - 420°C",
+      "data3": "Tömeg: 4.867 • 10<sup>24</sup> kg"
+    },
+    "description": "<p >A Vénusz a második bolygó a Naptól, keringési ideje 224,7 földi nap. Nevét Venusról, a szépség római istennőjéről kapta.</p><p >A Hold után a legfényesebb objektum az éjszakai égbolton, legnagyobb látszólagos fényessége −4,6 magnitúdó. Maximális fényességénél még nappal is észrevehető.</p><p class=\"mb-0\">Mivel a Vénusz kering a Nap körül és közelebb van hozzá, mint a Föld, ezért néhány hónapig a Naptól keletre, később néhány hónapig a Naptól nyugatra látható, változó távolságra.</p>"
+  },
+  "earth": {
+    "name": "Föld",
+    "data": {
+      "data1": "Átmérő: 12 742 km",
+      "data2": "Felszíni hőmérséklet: -40°C - 50°C",
+      "data3": "Tömeg: 5,972 • 10<sup>24</sup> kg"
+    },
+    "description": "<p >A Föld a Naptól számított harmadik bolygó a Naprendszerben, ahol a legnagyobb átmérőjű, tömegű és sűrűségű Föld-típusú bolygó.</p><p >Több millió faj, köztük az ember élőhelye is. A Föld a világegyetem egyetlen olyan bolygója, amelyről tudjuk, hogy életet hordoz.</p><p >Jelenlegi ismereteink szerint 4,44–4,54 milliárd éve alakult ki, és a felszínén mintegy egy milliárd év múlva az élet is megjelent.</p>"
+  },
+  "mars": {
+    "name": "Mars",
+    "data": {
+      "data1": "Átmérő: 6 779 km",
+      "data2": "Felszíni hőmérséklet: -140°C - 20°C",
+      "data3": "Tömeg: 6,39 • 10<sup>24</sup> kg"
+    },
+    "description": "<p >A Mars a Naptól számított negyedik bolygó a Naprendszerben. Szabad szemmel is könnyedén látható az éjszakai égbolton.</p><p >A római hadistenről nevezték el, de gyakran hívják „vörös bolygónak” is színe miatt, amit a Mars felszínét meghatározó vas-oxid okoz.</p><p >A Mars a harmadik legnagyobb kőzetbolygó a Naprendszerben, számos rendkívüli felszíni képződménnyel.</p><p >Két természetes holdja van, a Phobos és a Deimos, mindkettő kicsi és szabálytalan alakú, valószínűleg befogott kisbolygók. Továbbá a 2000-es évek elejétől három mesterséges hold kíséri útján: Mars Odyssey, Mars Express és a Mars Reconnaissance Orbiter.</p>"
+  },
+  "jupiter": {
+    "name": "Jupiter",
+    "data": {
+      "data1": "Átmérő: 139 820 km",
+      "data2": "Felszíni hőmérséklet:  -183°C - 426°C",
+      "data3": "Tömeg: 1,898 • 10<sup>27</sup> kg"
+    },
+    "description": "<p >A Jupiter az ötödik bolygó a Naptól, és messze a legnagyobb bolygó a Naprendszerben. Óriásbolygó, tömege két és félszerese az összes többi bolygó együttes tömegének.</p><p >A Földről nézve maximális fényessége -2,94 magnitúdó, ezzel átlagosan a harmadik legfényesebb égitest az éjszakai égbolton, a Hold és a Vénusz után (rövid időre a Mars vetekedhet fényességével pályájának bizonyos pontjain).</p><p >A Jupiter főként hidrogénből áll, tömegének egynegyedét hélium teszi ki, sziklás magja nehezebb elemeket tartalmazhat</p>"
+  },
+  "saturn": {
+    "name": "Szaturnusz",
+    "data": {
+      "data1": "Átmérő: 116 460 km",
+      "data2": "Felszíni hőmérséklet: -191°C - -69°C",
+      "data3": "Tömeg: 5,6846 • 10<sup>26</sup> kg"
+    },
+    "description": "<p >A Szaturnusz a hatodik bolygó a Naptól számítva, a második legnagyobb a Naprendszerben a Jupiter után.</p><p >Egyike annak az öt bolygónak, ami a Földről szabad szemmel is látható. A Szaturnusznak látványos, jégből és törmelékekből álló gyűrűrendszere van.</p><p >A Szaturnusz belső magja valószínűleg vas-nikkel összetételű, a magot fémes hidrogén veszi körül, ezután egy közbülső réteg következik, amit folyékony hidrogén és folyékony hélium alkot, és végül a bolygó külső takarója gázokból áll.</p><p >A fémes hidrogénrétegben elektromos áramok folynak, ez kelti a bolygó körüli mágneses mezőt, ami gyengébb, mint a Föld esetében, de mágneses momentuma 580-szor erősebb, a Szaturnusz nagyobb mérete miatt.</p>"
+  },
+  "uranus": {
+    "name": "Uránusz",
+    "data": {
+      "data1": "Átmérő: 51 118 km",
+      "data2": "Felszíni hőmérséklet: -214°C - -196°C",
+      "data3": "Tömeg: 8,6832 • 10<sup>25</sup> kg"
+    },
+    "description": "<p >Az Uránusz a Naprendszer hetedik bolygója. Óriásbolygó, a harmadik legnagyobb átmérőjű és a negyedik legnagyobb tömegű.</p><p >Az Uránusz felfedezését 1781. március 13-ától számítjuk, mert ekkor pillantotta meg először Sir William Herschel.</p><p >Nem tartott sokáig, mire a csillagászok felismerték e felfedezés jelentőségét. Sir William eredetileg támogatójáról, III. György angol uralkodóról nevezte el a bolygót, a Georgium Sidus (György csillaga) név azonban nem talált lelkes fogadtatásra a világ többi részén.</p><p >Herschel hat évvel később felfedezte az Uránusz két legnagyobb holdját: a Titániát (III) és az Oberont (IV). Az Arielt (I) és az Umbrielt (II) 1851-ben Lassell találja meg.</p>"
+  },
+  "neptune": {
+    "name": "Neptunusz",
+    "data": {
+      "data1": "Átmérő: 49 528 km",
+      "data2": "Felszíni hőmérséklet:  -223°C - -217°C",
+      "data3": "Tömeg: 1,0243 • 10<sup>26</sup> kg"
+    },
+    "description": "<p >A Neptunusz a Naptól számítva a nyolcadik, legkülső bolygó a Naprendszerben.</p><p >Csillagrendszerünk négy óriásbolygója közül a méretét tekintve az utolsó, a tömegét nézve viszont az Uránuszt megelőzve a harmadik legnagyobb. Színe miatt Neptunusról, a tengerek római istenéről nevezték el. Jele az isten háromágú szigonyát jelképezi. 14 ismert holdja van, ezek közül a két ismertebb a Nereida és a Triton.</p><p >Az első ember, aki egyértelmű utalást tett egy Uránuszon túli bolygó létezésére, egy amatőr csillagász, Hussey tiszteletes, kenti rektor volt.</p>"
+  }
+}
